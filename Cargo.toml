@@ -1,0 +1,2 @@
+[workspace]
+members = ["signalbot_rs", "example_use"]

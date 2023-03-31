@@ -1,0 +1,4 @@
+/target
+/signalbot_rs/Cargo.lock
+.env
+.idea
